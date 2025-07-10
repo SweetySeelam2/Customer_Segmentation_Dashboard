@@ -1,0 +1,6 @@
+Cluster,Age,Annual Income (k$),Spending Score (1-100),Label,Color,Plot Position
+0,55.28,47.62,41.71,Balanced Spenders,Light Pink,Center
+1,32.88,86.1,81.53,Premium Customers,Pink,Top-right
+2,25.77,26.12,74.85,High-Spend Value Seekers,Purple,Top-left
+3,26.73,54.31,40.91,Budget-Conscious Segment,Dark Purple,Bottom-left
+4,44.39,89.77,18.48,Affluent but Low Spend,Black,Bottom-right
