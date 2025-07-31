@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-In today’s competitive retail environment, companies like **Amazon, Walmart, and Costco** must deeply understand customer behavior to personalize offers, increase ROI, and reduce churn. This project uses **KMeans clustering** to group 200 mall customers based on:
+In today’s competitive retail environment, companies like **Amazon, Walmart, and Costco** must deeply understand customer behavior to personalize offers, increase ROI, and reduce churn. This project uses **K-Means Clustering** to group 200 mall customers based on:
 
 - Annual Income  
 - Spending Score  
